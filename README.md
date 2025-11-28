@@ -6,7 +6,6 @@
 <img width="499" height="957" alt="image" src="https://github.com/user-attachments/assets/548924ce-fdd1-4c5e-a49a-5f967fa42c70" />
 <img width="1000" height="724" alt="image" src="https://github.com/user-attachments/assets/d4e257f9-5798-46a3-b4eb-67461056acae" />
 
-*Добавьте скриншоты вашего приложения здесь*
 
 ## ✨ Возможности
 
